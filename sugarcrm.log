@@ -1,0 +1,4 @@
+Fri Sep 25 05:53:48 2015 [255381][-none-][FATAL] Could not connect to DB server 127.9.221.2 as adminbeyDC76. port : Can't connect to MySQL server on '127.9.221.2' (113)
+10/09/17 23:28:24 [10892][-none-][FATAL] Could not connect to DB server 127.8.251.130 as adminbeyDC76. port : Access denied for user 'adminbeyDC76'@'localhost' (using password: YES)
+10/10/17 17:52:19 [8712][-none-][FATAL] Could not connect to DB server localhost as root. port : No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
